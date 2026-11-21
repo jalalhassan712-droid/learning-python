@@ -16,8 +16,6 @@ I created this repository to store my Python practice code, assignments, exercis
 - Functions
 - File Handling
 - Object-Oriented Programming (OOP)
-- NumPy
-- Pandas
 - Python Projects
 
 ## 📂 Repository Contents
