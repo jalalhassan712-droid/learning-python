@@ -8,6 +8,7 @@ I created this repository to store my Python practice code, assignments, exercis
 
 - Python Fundamentals
 - Variables and Data Types
+- user input
 - Conditional Statements
 - Loops
 - Lists, Tuples, Sets, and Dictionaries
